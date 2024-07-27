@@ -1,0 +1,2315 @@
+.rectangle-div {
+  height: 104px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  display: none;
+  max-width: 100%;
+}
+.quem-somos16 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.component-152 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.quem-somos17 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 89px;
+}
+.component-162 {
+  position: absolute;
+  top: 0;
+  left: 143px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 0;
+  z-index: 1;
+}
+.component-15-parent {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+}
+.frame-container {
+  width: 255px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.captura-de-tela-2024-07-09-1101 {
+  height: 101px;
+  width: 310px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.quem-somos18 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 90px;
+  flex-shrink: 0;
+}
+.component-172 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  z-index: 1;
+}
+.quem-somos19 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 78px;
+}
+.component-22 {
+  position: absolute;
+  top: 0;
+  left: 120px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.component-17-group {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+}
+.frame-div,
+.frame-header {
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-div {
+  width: 219px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xl);
+}
+.frame-header {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-267xl) var(--padding-10xs);
+  gap: var(--gap-5xl-5);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child1 {
+  width: 1440px;
+  height: 1810px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.image-table-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+  z-index: 1;
+}
+.login-components {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 183px;
+  left: 29px;
+  width: 144px;
+  height: 52px;
+  z-index: 2;
+}
+.image-table,
+.rectangle-icon {
+  border-radius: var(--br-9xs);
+  z-index: 1;
+}
+.image-table {
+  height: 245px;
+  width: 203px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.rectangle-input {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 183px;
+  left: 29px;
+  width: 144px;
+  height: 52px;
+  z-index: 2;
+}
+.frame-child2,
+.rectangle-parent2 {
+  border-radius: var(--br-9xs);
+  z-index: 1;
+}
+.rectangle-parent2 {
+  height: 245px;
+  width: 203px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.frame-child3 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 183px;
+  left: 29px;
+  width: 144px;
+  height: 52px;
+  z-index: 2;
+}
+.rectangle-parent3 {
+  height: 245px;
+  width: 203px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-image: url(./public/rectangle-36@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.component-28-child {
+  height: 50px;
+  width: 212px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray);
+  display: none;
+}
+.login1 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.component-28 {
+  width: 212px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: -24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs-4) var(--padding-40xl) var(--padding-3xs-6);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+  z-index: 2;
+}
+.frame-child5 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 183px;
+  left: 25px;
+  width: 151px;
+  height: 52px;
+  z-index: 3;
+}
+.rectangle-parent4 {
+  height: 245px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-image: url(./public/image-table@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 2;
+}
+.component-28-parent,
+.image-table-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-28-parent {
+  width: 203px;
+  justify-content: flex-start;
+  position: relative;
+}
+.image-table-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.orientao-alimentar {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.food-titles {
+  width: 191px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.receitas-balanceadas {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.food-titles1 {
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.alimentos-de-a {
+  position: relative;
+  z-index: 1;
+}
+.alimentos-de-a-z-e-seus-nutr-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.cryptopaws {
+  position: relative;
+  display: inline-block;
+  min-width: 83px;
+  z-index: 1;
+}
+.food-info {
+  width: 1037px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.component-27-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-27 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-24-inner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-242 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-25-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-25,
+.component-25-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-25 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-25-wrapper {
+  flex-direction: column;
+  padding: 0 var(--padding-20xl) 0 0;
+}
+.component-26-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks4 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-26 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-26,
+.ebook-download,
+.food-info-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.ebook-download {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.food-info-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7px;
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  width: 1104px;
+  flex-direction: row;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-parent1,
+.frame-wrapper2,
+.frame-wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 1115px;
+  flex-direction: column;
+  gap: var(--gap-mid);
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-15xl);
+  box-sizing: border-box;
+}
+.frame-child6,
+.frame-child7,
+.starimg-icon {
+  align-self: stretch;
+  width: 203px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 245px;
+  z-index: 1;
+}
+.component-24-child1 {
+  height: 50px;
+  width: 212px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray);
+  display: none;
+}
+.login2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.component-243 {
+  width: 212px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: -24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs-4) var(--padding-40xl) var(--padding-3xs-6);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.starimg-icon1 {
+  height: 245px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.component-24-parent,
+.rectangle-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-24-parent {
+  width: 203px;
+  justify-content: flex-start;
+  position: relative;
+}
+.rectangle-parent5 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.vitamina-a- {
+  margin: 0;
+}
+.vitamina-a-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.vitamin-titles {
+  width: 176px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.astaxantina-mdulo {
+  margin: 0;
+}
+.astaxantina-mdulo-container {
+  width: 179px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.betacaroteno-mdulo {
+  margin: 0;
+}
+.betacaroteno-mdulo-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.vitamin-titles1 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.biotina-mdulo {
+  margin: 0;
+}
+.biotina-mdulo-container {
+  width: 144px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamin-modules {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.component-24-child2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks5 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-244 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-24-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks6 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-24-container,
+.component-245 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-245 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-24-container {
+  flex-direction: column;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.component-25-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks7 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-25-container,
+.component-251 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-251 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-25-container {
+  flex-direction: column;
+  padding: 0 var(--padding-3xl) 0 0;
+}
+.component-26-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks8 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-24-group,
+.component-261 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-261 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-24-group {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.vitamin-modules-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.frame-wrapper5 {
+  width: 1099px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-parent2,
+.frame-wrapper4,
+.frame-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-wrapper4 {
+  width: 1195px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-21xl) var(--padding-xs);
+  box-sizing: border-box;
+}
+.frame-child10,
+.frame-child8,
+.frame-child9 {
+  align-self: stretch;
+  width: 203px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 245px;
+  z-index: 1;
+}
+.component-31-child {
+  height: 50px;
+  width: 212px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray);
+  display: none;
+}
+.login3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.component-31 {
+  width: 212px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: -24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs-4) var(--padding-40xl) var(--padding-3xs-6);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-child11 {
+  height: 245px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.component-31-parent,
+.rectangle-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-31-parent {
+  width: 203px;
+  justify-content: flex-start;
+  position: relative;
+}
+.rectangle-parent6 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.vitamina-b2- {
+  margin: 0;
+}
+.vitamina-b2-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.vitamina-b2-mdulo-5-wrapper {
+  width: 182px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.vitamina-b3- {
+  margin: 0;
+}
+.vitamina-b3-container {
+  width: 179px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamina-b5- {
+  margin: 0;
+}
+.vitamina-b5-container {
+  width: 184px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamina-b6- {
+  margin: 0;
+}
+.vitamina-b6-container {
+  width: 178px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamin-modules1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+}
+.component-30-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks9 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-30,
+.component-30-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-30 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-30-wrapper {
+  flex-direction: column;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.component-32-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks10 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-32 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-33-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks11 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-33,
+.component-33-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-33 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-33-wrapper {
+  flex-direction: column;
+  padding: 0 var(--padding-7xs) 0 0;
+}
+.component-29-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks12 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-29 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-parent4,
+.vitamin-modules-group {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent4 {
+  width: 1047px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.vitamin-modules-group {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame-wrapper7 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi) 0 var(--padding-xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-parent3,
+.frame-wrapper6,
+.frame-wrapper7 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-wrapper6 {
+  width: 1177px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xl) var(--padding-xs);
+  box-sizing: border-box;
+}
+.frame-child12,
+.frame-child13,
+.frame-child14 {
+  align-self: stretch;
+  width: 203px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 245px;
+  z-index: 1;
+}
+.component-31-item {
+  height: 50px;
+  width: 212px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray);
+  display: none;
+}
+.login4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.component-311 {
+  width: 212px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: -24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs-4) var(--padding-40xl) var(--padding-3xs-6);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.access-to-full-service-custome {
+  height: 245px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.component-31-group,
+.rectangle-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-31-group {
+  width: 203px;
+  justify-content: flex-start;
+  position: relative;
+}
+.rectangle-parent7 {
+  width: 1115px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.vitamina-b9- {
+  margin: 0;
+}
+.vitamina-b9-container {
+  width: 185px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamina-b12- {
+  margin: 0;
+}
+.vitamina-b12-container {
+  width: 188px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamina-c- {
+  margin: 0;
+}
+.vitamina-c-container {
+  width: 184px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.carbonado-de-calcio {
+  margin: 0;
+}
+.carbonado-de-calcio-container {
+  width: 236px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vitamin-modules2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.component-30-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks13 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-301 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-32-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks14 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-32-wrapper,
+.component-321 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-321 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-32-wrapper {
+  flex-direction: column;
+  padding: 0 var(--padding-9xs) 0 0;
+}
+.component-33-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks15 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-331 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-29-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks16 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-291,
+.component-30-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-291 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-30-parent {
+  width: 1045px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-parent5,
+.frame-wrapper8,
+.vitamin-modules-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.vitamin-modules-container {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frame-parent5,
+.frame-wrapper8 {
+  box-sizing: border-box;
+}
+.frame-wrapper8 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-4xs);
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-parent5 {
+  width: 1155px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-sm);
+  gap: var(--gap-xl);
+}
+.component-28-item {
+  height: 50px;
+  width: 212px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray);
+  display: none;
+}
+.login5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.component-28-wrapper,
+.component-281 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-281 {
+  flex: 1;
+  justify-content: flex-start;
+  padding: var(--padding-xs-4) var(--padding-40xl) var(--padding-3xs-6);
+  z-index: 1;
+}
+.component-28-wrapper {
+  width: 244px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.frame-wrapper1,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-white);
+  align-items: flex-end;
+  padding: var(--padding-9xl) 117px 126px;
+  gap: 58px;
+}
+.frame-wrapper1 {
+  width: 1440px;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-50xl);
+  min-height: 1879px;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17,
+.frame-child18 {
+  align-self: stretch;
+  width: 203px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 245px;
+  z-index: 1;
+}
+.frame-child18 {
+  z-index: 2;
+}
+.frame-section,
+.rectangle-parent8 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.rectangle-parent8 {
+  width: 1115px;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-left: -1272px;
+}
+.frame-section {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.vitamina-d3- {
+  margin: 0;
+}
+.vitamina-d3-container {
+  align-self: stretch;
+  position: relative;
+}
+.download-button-shapes {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks17 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-271,
+.vitamin-modules3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-271 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+}
+.vitamin-modules3 {
+  width: 182px;
+  flex-direction: column;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+}
+.vitamina-e- {
+  margin: 0;
+}
+.vitamina-e-container {
+  align-self: stretch;
+  position: relative;
+}
+.component-35-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks18 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-35,
+.vitamin-modules4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-35 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+}
+.vitamin-modules4 {
+  width: 179px;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.ferro-mdulo {
+  margin: 0;
+}
+.ferro-mdulo-container {
+  align-self: stretch;
+  position: relative;
+}
+.component-36-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks19 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-36,
+.vitamin-modules5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-36 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+}
+.vitamin-modules5 {
+  width: 184px;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.luteina-mdulo {
+  margin: 0;
+}
+.luteina-mdulo-container {
+  align-self: stretch;
+  position: relative;
+}
+.component-34-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-steelblue);
+}
+.baixar-ebooks20 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 96px;
+  z-index: 1;
+}
+.component-34,
+.vitamin-modules6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-34 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: transparent;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+}
+.vitamin-modules6 {
+  width: 178px;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frame-group,
+.modules,
+.modules-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.modules {
+  width: 1090px;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+}
+.frame-group,
+.modules-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-11xl);
+}
+.frame-group {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-69xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inria-sans);
+}
+.frame-child19 {
+  height: 200px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray);
+  display: none;
+  max-width: 100%;
+}
+.quem-somos20 {
+  position: relative;
+  font-weight: 500;
+}
+.component-153 {
+  height: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.quem-somos21 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 111px;
+}
+.component-71 {
+  height: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.quem-somos22 {
+  width: 113px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-header,
+.component-23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-23 {
+  width: 50px;
+  padding: 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.about-header {
+  align-self: stretch;
+  gap: var(--gap-16xl);
+  font-size: var(--font-size-xl);
+}
+.quem-somos23 {
+  position: absolute;
+  margin: 0 !important;
+  right: -24px;
+  bottom: -8px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.component-16-wrapper,
+.component-163 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-163 {
+  width: 36px;
+  height: 11px;
+  flex-direction: row;
+  position: relative;
+  z-index: 1;
+}
+.component-16-wrapper {
+  width: 76px;
+  flex-direction: column;
+}
+.quem-somos24 {
+  position: absolute;
+  margin: 0 !important;
+  right: -51px;
+  bottom: -11px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 101px;
+}
+.component-19-wrapper,
+.component-191 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-191 {
+  align-self: stretch;
+  height: 8px;
+  flex-direction: row;
+  position: relative;
+  z-index: 1;
+}
+.component-19-wrapper {
+  width: 50px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.quem-somos25 {
+  position: absolute;
+  margin: 0 !important;
+  right: -23px;
+  bottom: -8px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 57px;
+}
+.component-21-wrapper,
+.component-212 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-212 {
+  align-self: stretch;
+  height: 11px;
+  flex-direction: row;
+  position: relative;
+  z-index: 1;
+}
+.component-21-wrapper {
+  width: 34px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-parent6 {
+  width: 380px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.quem-somos26 {
+  position: absolute;
+  margin: 0 !important;
+  right: -31px;
+  bottom: -7px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 57px;
+}
+.component-17-wrapper,
+.component-173 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-173 {
+  width: 26px;
+  height: 12px;
+  flex-direction: row;
+  position: relative;
+  z-index: 1;
+}
+.component-17-wrapper {
+  width: 78px;
+  flex-direction: column;
+}
+.quem-somos27 {
+  position: absolute;
+  margin: 0 !important;
+  right: -26px;
+  bottom: -7px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 76px;
+}
+.component-201 {
+  height: 12px;
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+}
+.quem-somos28 {
+  position: absolute;
+  margin: 0 !important;
+  right: -37px;
+  bottom: -9px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 85px;
+}
+.component-9-wrapper,
+.component-91 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-91 {
+  align-self: stretch;
+  height: 10px;
+  flex-direction: row;
+  position: relative;
+  z-index: 1;
+}
+.component-9-wrapper {
+  width: 48px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-parent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.quem-somos29 {
+  position: absolute;
+  margin: 0 !important;
+  right: -22px;
+  bottom: -8px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 43px;
+}
+.component-181 {
+  height: 11px;
+  width: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+}
+.quem-somos30 {
+  position: absolute;
+  margin: 0 !important;
+  right: -56px;
+  bottom: -10px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 109px;
+}
+.about-content,
+.component-18-parent,
+.component-61 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-61 {
+  height: 9px;
+  width: 53px;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+}
+.about-content,
+.component-18-parent {
+  width: 240px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.about-content {
+  width: 396px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-lgi-3);
+  max-width: 100%;
+}
+.quem-somos31 {
+  width: 97px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.component-81 {
+  width: 46px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  z-index: 1;
+  font-size: var(--font-size-xl);
+}
+.component-81,
+.frame-footer,
+.livros {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-footer {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-22xl) var(--padding-429xl) var(--padding-22xl)
+    var(--padding-430xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.livros {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .frame-header {
+    padding-left: var(--padding-124xl);
+    padding-right: var(--padding-124xl);
+    box-sizing: border-box;
+  }
+  .image-table-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .rectangle-parent5,
+  .rectangle-parent6 {
+    flex-wrap: wrap;
+  }
+  .rectangle-parent1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: 82px;
+    box-sizing: border-box;
+  }
+  .frame-group,
+  .frame-wrapper1 {
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .frame-group {
+    padding-bottom: var(--padding-38xl);
+  }
+  .frame-footer {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .component-24-group,
+  .ebook-download,
+  .food-info,
+  .frame-parent4,
+  .rectangle-parent7,
+  .vitamin-modules,
+  .vitamin-modules1,
+  .vitamin-modules2 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper1,
+  .rectangle-parent1 {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper1 {
+    padding-bottom: var(--padding-10xl);
+  }
+  .rectangle-parent8 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .modules {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    padding-bottom: 37px;
+    box-sizing: border-box;
+  }
+  .about-header {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-header {
+    padding-left: var(--padding-52xl);
+    padding-right: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+  .component-30-parent {
+    flex-wrap: wrap;
+  }
+  .rectangle-parent1 {
+    gap: 29px;
+    padding-left: var(--padding-39xl);
+    padding-right: var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .frame-group,
+  .frame-wrapper1 {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-group {
+    padding-bottom: var(--padding-5xl);
+  }
+  .frame-footer {
+    padding-left: var(--padding-205xl);
+    padding-right: var(--padding-205xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-header {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .login1,
+  .login2,
+  .login3,
+  .login4,
+  .login5 {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-parent1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .quem-somos20,
+  .quem-somos21,
+  .quem-somos22 {
+    font-size: var(--font-size-base);
+  }
+  .about-header {
+    gap: var(--gap-mid);
+  }
+  .frame-parent6,
+  .frame-parent7 {
+    flex-wrap: wrap;
+  }
+  .quem-somos31 {
+    font-size: var(--font-size-base);
+  }
+  .frame-footer {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
